@@ -1,4 +1,15 @@
 # Desarrollo de una aplicación que utilice criptografía
+
+<!-- academic-catalog:start -->
+**UC3M · 3.º curso · Criptografía y seguridad informática**
+
+Aplicación de escritorio para registrar y consultar datos de vehículos con autenticación, cifrado Fernet, derivación de claves y claves RSA.
+
+**Tecnologías:** Python, Tkinter, SQLite, cryptography.
+
+[Ver todos mis proyectos académicos](https://github.com/cabamarcos/academic-projects)
+<!-- academic-catalog:end -->
+
 ## Objetivo
 El objetivo de esta práctica es que los alumnos conozcan y aprendan a utilizar librerías
 criptográficas para así afianzar los conceptos criptográficos estudiados en teoría. Así, se
